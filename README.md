@@ -7,7 +7,7 @@
 - 🌱 Currently I am doing  **Problem Solving**
 - 🌱 Pursuing **B.Tech**
 - 👯 I’m looking to collaborate on Full Stack projects
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Hemu21/)
+- 👨‍💻 All of my projects are available at [GitHub]([https://github.com/Hemu21/](https://github.com/Ayush))
 - 💬 Ask me about **MERN stack, Nextjs and React Native**
 - 📫 How to reach me: [agarwalayushmaan88@gmail.com](mailto:agarwalayushmaan88@gmail.com)
  
